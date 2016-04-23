@@ -1,0 +1,22 @@
+{
+  "name": "node_express_course",
+  "version": "1.0.0",
+  "description": "This a dummy app for the Express course from Acamica",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsartori94/node_express_course.git"
+  },
+  "author": "Luca Sartori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsartori94/node_express_course/issues"
+  },
+  "homepage": "https://github.com/lsartori94/node_express_course#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
